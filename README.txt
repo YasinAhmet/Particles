@@ -1,1 +1,1 @@
-You can right click on the particles mode, and right click again to off. Left click is for creating particles and creating force to push up the particles. 
+You can right click in the particles mode and right click again to off. Left click is to create particles and to create force to push up the particles. Your objective is to push up particles
